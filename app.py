@@ -80,8 +80,8 @@ client1.on_message = on_message
 st.title("🎙️ Interfaces Multimodales")
 st.subheader("✨ Control de dispositivos por voz")
 
-image = Image.open('voice_ctrl.jpg')
-st.image(image, width=200)
+image = Image.open('habla.png')
+st.image(image, width=300)
 
 st.markdown("Toca el botón para comenzar a hablar 🎧")
 
